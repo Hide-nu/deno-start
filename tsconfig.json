@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "lib": ["ES2020", "dom"],
+    "types": ["webgl2"]
+  }
+}
